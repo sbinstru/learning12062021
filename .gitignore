@@ -1,4 +1,4 @@
 dbpassword.txt
 [password]
-[a-zA-z0-9].c
+[a-zA-Z0-9].c
 *.jar
